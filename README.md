@@ -11,7 +11,7 @@ npm run build
 node dist/inquirer.cjs
 
 ## Example Video
-https://drive.google.com/file/d/1iyCZ4Z5FXe7jvlnFkP9NKfbQVp7nZp_I/view?usp=sharing
+https://watch.screencastify.com/v/NhbJ6FNHzhOadW8jp8ew
 
 ## Contributing
 UncleBrew- https://github.com/UncleBrew
